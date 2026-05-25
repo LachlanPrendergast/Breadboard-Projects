@@ -5,4 +5,4 @@ The Uno will return each byte received via Serial and the LED will flash on and 
 
 Wiring Diagram:
 
-!(./assets/wiring-diagram.png)
+![Arduino wiring diagram (simple LED setup](./assets/wiring-diagram.png)
